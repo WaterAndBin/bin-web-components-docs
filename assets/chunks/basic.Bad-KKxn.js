@@ -1,0 +1,1 @@
+import{_ as s,c as t,o,j as c}from"./framework.CRahgyQP.js";const n={},a={class:"box-default"};function r(l,e){return o(),t("div",a,e[0]||(e[0]=[c("y-switch",null,null,-1)]))}const d=s(n,[["render",r]]);export{d as default};

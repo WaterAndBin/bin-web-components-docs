@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as n,j as e}from"./framework.CRahgyQP.js";const a={},c={class:"box-default"};function r(f,s){return n(),o("div",c,s[0]||(s[0]=[e("y-input",null,[e("span",{slot:"suffix"},"🏠")],-1)]))}const _=t(a,[["render",r]]);export{_ as default};
