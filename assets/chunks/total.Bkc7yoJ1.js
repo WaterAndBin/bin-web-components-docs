@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as s,j as r}from"./framework.CRahgyQP.js";const a={},n={class:"box-default"};function c(l,t){return s(),o("div",n,t[0]||(t[0]=[r("y-input",{"show-word-total":!0},null,-1)]))}const d=e(a,[["render",c]]);export{d as default};

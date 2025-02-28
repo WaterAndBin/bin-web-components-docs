@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as n,j as s}from"./framework.DxDU6cyq.js";const a={},c={class:"box-default"};function r(l,e){return n(),t("div",c,e[0]||(e[0]=[s("y-input",{loading:""},null,-1)]))}const _=o(a,[["render",r]]);export{_ as default};

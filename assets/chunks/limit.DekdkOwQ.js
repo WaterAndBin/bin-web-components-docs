@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as n,j as e}from"./framework.DxDU6cyq.js";const r={},l={class:"box-default"};function i(a,t){return n(),s("div",l,t[0]||(t[0]=[e("y-input",{"show-word-limit":!0},null,-1),e("y-input",{"show-word-limit":!0,"max-length":20},null,-1)]))}const u=o(r,[["render",i]]);export{u as default};

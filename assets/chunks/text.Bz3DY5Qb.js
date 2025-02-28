@@ -1,0 +1,1 @@
+import{_ as s,c,o as n,j as t}from"./framework.DxDU6cyq.js";const o={};function r(a,e){return n(),c("y-switch",null,e[0]||(e[0]=[t("span",{slot:"checked"},"OFF",-1),t("span",{slot:"unchecked"},"ON",-1)]))}const _=s(o,[["render",r]]);export{_ as default};
